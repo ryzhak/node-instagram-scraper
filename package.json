@@ -1,6 +1,6 @@
 {
-  "name": "user-instagram",
-  "version": "1.0.3",
+  "name": "user-instagram-profile",
+  "version": "1.0.0",
   "description": "Get user data and feed by scraping Instagram's user page. No need for O-Auth or API.",
   "main": "index.js",
   "scripts": {
@@ -16,9 +16,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/EdouardCourty/node-instagram-scraper"
+    "url": "https://github.com/ryzhak/node-instagram-scraper"
   },
-  "author": "Edouard Courty",
+  "author": "Vladimir Ryzhak",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
